@@ -1,0 +1,8 @@
+[core]
+    remote = assignment2
+['remote "mloptask6"']
+    url = gdrive://1fKCpJoS3CoLBRNBQfgCNz02XGv-kUuQ3
+['remote "mlopassignment2"']
+    url = gdrive://1fKCpJoS3CoLBRNBQfgCNz02XGv-kUuQ3
+['remote "assignment2"']
+    url = gdrive://1M7z7bqpqz4svH3WLGK7eAPDlpQfs3Y8L
